@@ -1,0 +1,22 @@
+.div4 {
+    background: rgba(255, 255, 255, 0.288);
+    border: 1px solid #FFFFFF;
+}
+
+.link {
+    color: #0f4e34;
+}
+
+.inputs input  {
+    margin: 0;
+    width: 7rem;
+    height: 1.5rem;
+
+}
+
+.result {
+    font-weight: 600;
+    color: rgb(252, 252, 252);
+}
+
+

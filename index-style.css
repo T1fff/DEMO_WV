@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600&family=Poppins:wght@200;300;400&display=swap');
+
+body{
+    height: 100vh;
+    background: rgb(0,36,35);
+    background: linear-gradient(142deg, rgba(0,36,35,1) 0%, rgba(9,121,82,1) 35%, rgba(0,212,255,1) 100%);
+    background-repeat: no-repeat;
+}
+
+.title h1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 10rem;
+    color: #f5f5f5;
+}
+
+.author p{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.3rem;
+    color: #f5f5f5 ;
+}
+.button {
+    font-family: 'Poppins', sans-serif;
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    background: #ced4da;
+    box-shadow: 0 5px #adb5bd;
+  }
+  .button:hover {
+    box-shadow: 0 3px #adb5bd;
+    top: 1px;
+  }
+  .button:active {
+    box-shadow: 0 0 #adb5bd;
+    top: 5px;
+  }
+
+.button a {
+    color: rgb(104, 104, 102);
+    text-decoration: none;
+  }

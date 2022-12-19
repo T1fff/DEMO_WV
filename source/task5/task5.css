@@ -1,0 +1,20 @@
+.div5 {
+    background: rgba(255, 255, 255, 0.288);
+    border: 1px solid #FFFFFF;
+}
+
+.link {
+    color: #0f4e34;
+}
+
+.explanation{
+    text-align: center;
+    color: #ffffffa2;
+    font-size: 0.9rem;
+    margin: 0;
+}
+
+.result {
+    font-weight: 600;
+    color: rgb(252, 252, 252);
+}

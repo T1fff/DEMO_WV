@@ -1,0 +1,17 @@
+
+.div1 {
+    background: rgba(255, 255, 255, 0.288);
+    border: 1px solid #FFFFFF;
+}
+
+.link {
+    color: #0f4e34;
+}
+
+@media screen and (max-width: 1400px) {
+    body {
+        background-color: #080d3f;
+        height: 130vh;
+    }
+}
+

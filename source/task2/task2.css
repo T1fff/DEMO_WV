@@ -1,0 +1,59 @@
+.div2 {
+    background: rgba(255, 255, 255, 0.288);
+    border: 1px solid #FFFFFF;
+}
+
+.link {
+    color: #0f4e34;
+}
+
+.inputs > form > div {
+    margin: 0 2rem;
+    padding: 1rem;
+}
+
+.envelope{
+    border: 1px solid #FFFFFF;
+    border-radius: 5px;
+}
+
+.envelope h2 {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+.envelope > label {
+    padding-top: 1rem ;
+    font-size: 1.1rem;
+    font-weight: 300;
+}
+
+.input  {
+    width: 6rem;
+    height: 1.5rem;
+
+}
+
+.inputs input {
+    margin:0 1rem 0 0.5rem;
+    background-color: rgba(247, 247, 247, 0.18);
+    border: none;
+    border-bottom: 2px solid #FFFFFF;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-size: 1rem;
+    text-align: center;
+
+}
+
+.result {
+    font-weight: 600;
+    color: rgb(252, 252, 252);
+}
+
+@media screen and (max-width: 1400px) {
+    body {
+        background-color: #080d3f;
+        height: 130vh;
+    }
+}
